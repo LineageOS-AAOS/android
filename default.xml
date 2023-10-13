@@ -5,6 +5,10 @@
            fetch=".."
            review="review.lineageos.org" />
 
+  <remote  name="LineageOS-AAOS"
+           fetch=".."
+           review="https://github.com/LineageOS-AAOS" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
