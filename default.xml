@@ -7,7 +7,8 @@
 
   <remote  name="LineageOS-AAOS"
            fetch=".."
-           review="https://github.com/LineageOS-AAOS" />
+           review="https://github.com/LineageOS-AAOS"
+           revision="refs/heads/lineage-17.1" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
